@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,OAAO,AAAC,CACJ,KAAK,CAAE,KAAK,CACZ,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,OAAO,CACzB,aAAa,CAAE,GAAG,CACrB",
-    "sources": [
-        "../sass/blocks/buttons.scss"
-    ],
-    "names": [],
-    "file": "buttons.min.css"
-}
